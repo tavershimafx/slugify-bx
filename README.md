@@ -6,6 +6,17 @@
  
  # Usage
  
+ ```typescript
+ NgComponent({
+  selector: ""
+ })
+ export default ProductComponent{
+ public product = {
+   name: ""
+  }
+ }
+ ```  
+ 
  ```HTML
 <!-- All the classes and blocks are just for sample case -->
 <div class="form-group>
