@@ -14,6 +14,6 @@
 
 <!--the value of the attribute of the slug pipe is the source variable which the text to be obtained is gotten-->
 <div class="form-group>
-  <input type="text" bx-slugify="product.name" />
+  <input type="text" slugify-bx="product.name" />
 </div>
  ```
